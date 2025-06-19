@@ -1,4 +1,4 @@
-Trabalho 03: React
+# Trabalho 03: React
 
 Gabriel Henrique Pereira Guimarães - RA: 22001726
 
@@ -6,7 +6,7 @@ Rafael Henrique Mauda Scos - RA: 22014026
 
 Alan Felipe Dias Wisniewski - RA: 22000126
 
-Projeto de Cadastro de Usuário
+## Projeto de Cadastro de Usuário
 
 Este é um projeto full-stack de cadastro de usuários, com um backend em Node.js e um frontend em React.
 Descrição
@@ -18,7 +18,7 @@ Funcionalidades
     Listar todos os usuários cadastrados.
     Interface amigável e responsiva.
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Backend (API):
 
@@ -34,7 +34,7 @@ Frontend (Cliente):
     React Router Dom: Para o gerenciamento de rotas da aplicação.
     Bootstrap: Framework de CSS para estilização dos componentes.
 
-Endpoints da API
+## Endpoints da API
 
 A API expõe os seguintes endpoints:
 
