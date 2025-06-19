@@ -1,7 +1,9 @@
 Trabalho 03: React
 
 Gabriel Henrique Pereira Guimarães - RA: 22001726
+
 Rafael Henrique Mauda Scos - RA: 22014026
+
 Alan Felipe Dias Wisniewski - RA: 22000126
 
 Projeto de Cadastro de Usuário
