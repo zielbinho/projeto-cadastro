@@ -9,7 +9,8 @@ Alan Felipe Dias Wisniewski - RA: 22000126
 ## Projeto de Cadastro de Usuário
 
 Este é um projeto full-stack de cadastro de usuários, com um backend em Node.js e um frontend em React.
-Descrição
+
+## Descrição
 
 O projeto consiste em uma aplicação web simples que permite o cadastro e a listagem de usuários. O backend é uma API RESTful, e o frontend é uma interface de usuário reativa construída com React para interagir com a API.
 Funcionalidades
