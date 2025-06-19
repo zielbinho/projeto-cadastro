@@ -1,9 +1,15 @@
-Projeto de Cadastro de Usuários
+Trabalho 03: React
+
+Gabriel Henrique Pereira Guimarães - RA: 22001726
+Rafael Henrique Mauda Scos - RA: 22014026
+Alan Felipe Dias Wisniewski - RA: 22000126
+
+Projeto de Cadastro de Usuário
 
 Este é um projeto full-stack de cadastro de usuários, com um backend em Node.js e um frontend em React.
 Descrição
 
-O projeto consiste em uma aplicação web simples que permite o cadastro e a listagem de usuários. O backend é uma API RESTful que se conecta a um banco de dados MySQL para persistir os dados, e o frontend é uma interface de usuário reativa construída com React para interagir com a API.
+O projeto consiste em uma aplicação web simples que permite o cadastro e a listagem de usuários. O backend é uma API RESTful, e o frontend é uma interface de usuário reativa construída com React para interagir com a API.
 Funcionalidades
 
     Cadastrar novos usuários com nome, email e telefone.
